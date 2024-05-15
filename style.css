@@ -1,0 +1,12 @@
+@font-face {
+  font-family: netflix;
+  src: url(assets/NetflixSans_W_Rg.woff2);
+}
+@font-face {
+  font-family: netflixmiddle;
+  src: url(assets/NetflixSans_W_Bd.woff2);
+}
+@font-face {
+  font-family: netflixend;
+  src: url(assets/NetflixSans_W_Md.woff2);
+}
